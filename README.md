@@ -61,6 +61,8 @@ We are going to create a Dashboard with IPL teams from the recent years. In this
 - `website` of the team.
 - `phoneNumber` of the team.
 - `image` depicts the IPL team badge(logo).
+after clone the project first u build
+npm install --save-dev @angular-devkit/build-angular use this commend,, ok sir,, after sucessful installation is the project runs sucessfully,, isn't it sir.. after build its work,, ok sir,, does I need to install other dependencies after this .. other dependencies means
 
 You can find the full list of [IPL TEAMS](https://www.iplt20.com/) on google. In our application we have to show at least six of them. The result could be something like this:
 

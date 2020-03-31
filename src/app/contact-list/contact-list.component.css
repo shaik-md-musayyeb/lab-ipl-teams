@@ -7,8 +7,9 @@ form {
 }
 
 .contacts {
+  margin: auto;
   display: flex;
-  width: 100%;
+  width: 80%;
   flex-wrap: wrap;
   justify-content: space-around;
   /*background-color: gray;*/
