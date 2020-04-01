@@ -1,6 +1,6 @@
 import { userContact } from './contact';
 
-export const contacts: userContact[] = [
+export const contacts: userContact[] = [   //here contacts is in array of userContact(interface) type
   {
     name: 'Chennai Super Kings',
     website: 'https://www.chennaisuperkings.com/',
